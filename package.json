@@ -1,6 +1,6 @@
 {
-  "name": "hardhat fund me",
-  "auther": "Francisco Freire",
+  "name": "hardhat-fund-me",
+  "author": "Francisco Freire",
   "version": "1.0.0",
   "devDependencies": {
     "@chainlink/contracts": "^0.6.0",
